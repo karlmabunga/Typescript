@@ -1,0 +1,23 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlmabunga/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlmabunga/Typescript/issues"
+  },
+  "homepage": "https://github.com/karlmabunga/Typescript#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
