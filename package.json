@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/karlmabunga/Typescript#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
   }
 }
