@@ -9,3 +9,7 @@ const profile = {
     this.age = age;
   }
 };
+
+const { age }: { age: number } = profile;
+
+const { coords: { lat, long } }: { coords : { lat: number, long: number } } = profile;
